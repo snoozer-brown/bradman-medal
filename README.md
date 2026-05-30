@@ -36,7 +36,8 @@ The Bradman Medal is an annual cricket award presented to the best performed pla
 | 2001–02 | Tim Haysman | Sturt |
 | 2000–01 | Mike Smith | University |
 | 1999–00 | John Lee | Kensington |
-| 1998–99 | Anthony Heidrich / Adam Polkinghorne | Northern Districts / East Torrens |
+| 1998–99 | Anthony Heidrich* | Northern Districts|
+| 1998–99 | Adam Polkinghorne* | East Torrens |
 | 1997–98 | Ben Hook | Adelaide |
 | 1996–97 | Shane Martin | Glenelg |
 | 1995–96 | Ben Johnson | Adelaide |
