@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Prevent Year column from wrapping */
+td:first-child {
+  white-space: nowrap;
+}
+
+/* Hide the 'View on GitHub' button */
+.btn { display: none !important; }
