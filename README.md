@@ -1,4 +1,4 @@
-The Bradman Medal is an annual cricket award presented to the best performed player in the South Australian Grade Cricket (Premier Cricket) competition. Established in 1958, the medal is named in honour of [Sir Donald Bradman](https://en.wikipedia.org/wiki/Don_Bradman).
+The Bradman Medal is an annual cricket award presented to the best performed player in the [South Australian Grade Cricket](https://www.saca.com.au/) (Premier Cricket) competition. Established in 1958, the medal is named in honour of [Sir Donald Bradman](https://en.wikipedia.org/wiki/Don_Bradman).
 
 ## List of winners
 
