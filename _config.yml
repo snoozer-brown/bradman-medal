@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Bradman Medal
 description: History of Bradman Medal winners for the best performed player in the South Australian Grade Cricket (Premier Cricket) competition.
+github:
+  is_project_page: false
