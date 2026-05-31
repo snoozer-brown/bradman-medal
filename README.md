@@ -41,8 +41,38 @@ The Bradman Medal is an annual cricket award presented to the best performed pla
 | 1997–98 | Ben Hook | Adelaide |
 | 1996–97 | Shane Martin | Glenelg |
 | 1995–96 | Ben Johnson | Adelaide |
+| 1994–95 | Anthony Heidrich | Salisbury |
+| 1993–94 | Martin Faull | Tea Tree Gully |
+| 1992–93 | Daniel Marsh | Sturt |
+| 1991–92 | Tim Harms |Glenelg |
 | 1990–91 | Brian McFadyen | Port Adelaide |
+| 1989–90 | Peter Gladigau | Glenelg |
+| 1988–89 | Sam Parksinson | Kensigton |
+| 1987–88 | Paul Nobes | West Torrens |
 | 1986–87 | Haydn Smart | Port Adelaide |
-| 1978–79 | Steve Gentle | Adelaide |
+| 1985–86 | James Pyke | West Torrens |
+| 1984–85 | Mark England | Prospect |
+| 1983–84 | Andrew Sincock | Adelaide |
+| 1982–83 | Peter Brinsley* | Kensigton |
+| 1982–83 | Don O'Connor* | East Torrens |
+| 1982–83 | Garry Davis* | University |
+| 1981–82 | Peter Herbert | East Torrens |
+| 1980–81 | Robert O'Shannassy* | University |
+| 1980–81 | Geofrrey Hall* | Glenelg |
+| 1979–80 | Robert O'Shannassy | University |
+| 1978–79 | Steve Gentle* | Adelaide |
+| 1978–79 | David Lovell* | Kensigton |
+| 1977–78 | Dean Smith | West Torrens |
+| 1976–77 | Kenvin Griffiths | University |
+| 1975–76 | Brian Hurn | Kensington |
+| 1974–75 | David Hookes | West Torrens |
+| 1973–74 | Andrew Sincock | Teachers College |
+| 1972–73 | Roy Stratfold | East Torrens |
+| 1971–72 | Graham Stanford | West Torrens |
+| 1970–71 | Brian Hurn | Kensington |
+| 1969–70 | Roy Stratfold | East Torrens |
+| 1968–69 | Robert O'Shannassy | University |
+| 1967–68 | Kevin McCarthy | Glenelg |
+| 1966–67 | David David | University |
 
 <small>* Denotes tie</small>
